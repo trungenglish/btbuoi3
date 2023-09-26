@@ -1,0 +1,16 @@
+﻿
+.game-board {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.tile {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    margin: 5px;
+    cursor: pointer;
+
+}
